@@ -6,7 +6,7 @@ Please stick to this.
     ├── build
     ├── docs
     ├── src/
-    │   └── secur3edit/
+    │   └── secur3dit/
     │       ├── filters/
     │       │   ├── Filter.java
     │       │   └── Helpers.java
