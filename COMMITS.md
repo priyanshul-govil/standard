@@ -3,7 +3,7 @@
 ### What is good?
 
 1. A good commit message is detailed.
-2. It focusses on the why more than the what or the how. What do you do is tracked by Git already. How do you do it is visible to the reader in your code already. 
+2. It focusses on the why more than the what or the how. What do you do is tracked by Git already. How do you do it is visible to the reader of your code already. 
 
 
 ### Use the editor method to write commits 
