@@ -3,8 +3,8 @@
 Please stick to this. 
 
     ── app/ 
-    ├── build
-    ├── docs
+    ├── build/
+    ├── docs/
     ├── src/
     │   └── secur3dit/
     │       ├── filters/
@@ -13,8 +13,8 @@ Please stick to this.
     │       ├── crypto/
     │       │   ├── AES256.java
     │       │   └── Helpers.java
-    │       ├── ui
+    │       ├── ui/
     │       └── Main.java
-    ├── tests
+    ├── tests/
     ├── LICENSE.md
     └── README.md
