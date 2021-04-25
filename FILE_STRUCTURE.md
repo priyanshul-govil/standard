@@ -1,6 +1,5 @@
 ### CODE ORGANISATION
 
-Please stick to this. 
 
     ── app/ 
     ├── build/
@@ -11,7 +10,9 @@ Please stick to this.
     │       │   ├── Filter.java
     │       │   └── Helpers.java
     │       ├── crypto/
+    │       │   ├── AES256CTR.java
     │       │   ├── AES256.java
+    │       │   ├── Constants.java
     │       │   └── Helpers.java
     │       ├── ui/
     │       └── Main.java
