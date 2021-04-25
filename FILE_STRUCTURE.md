@@ -7,7 +7,7 @@
     ├── src/
     │   └── secur3dit/
     │       ├── filters/
-    │       │   ├── Filter.java
+    │       │   ├── Filters.java
     │       │   └── Helpers.java
     │       ├── crypto/
     │       │   ├── AES256CTR.java
