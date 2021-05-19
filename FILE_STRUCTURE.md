@@ -16,7 +16,18 @@
     │       │   ├── Constants.java
     │       │   └── Helpers.java
     │       ├── ui/
+    |       |   |── images/
+            |   ├── UifxmlController.java
+    │       │   ├── design.css
+    │       │   ├── encryption.fxml
+    │       │   ├── encryptionController.java
+    │       │   ├── filterDesign.css
+    │       │   ├── homepage.fxml
+    │       │   ├── homepageController.java
+    │       │   └── uifxml.fxml
     │       └── Main.java
     ├── tests/
+    |    ├── TEST_DATA.csv
+    |    └── TestAES256.java
     ├── LICENSE.md
     └── README.md
