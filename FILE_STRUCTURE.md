@@ -17,7 +17,7 @@
     │       │   └── Helpers.java
     │       ├── ui/
     |       |   |── images/
-            |   ├── UifxmlController.java
+    |       |   ├── UifxmlController.java
     │       │   ├── design.css
     │       │   ├── encryption.fxml
     │       │   ├── encryptionController.java
